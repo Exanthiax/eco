@@ -19,48 +19,55 @@ loadbefore:
   - DeluxeMenus
   - Nexo
 softdepend:
-  - ItemBridge
+  # AntiGrief
   - HuskClaims
   - HuskTowns
-  - Terra
-  - ProtocolLib
   - WorldGuard
   - GriefPrevention
   - Towny
   - FactionsUUID
   - Kingdoms
-  - NoCheatPlus
-  - AAC
-  - Matrix
-  - Vulcan
-  - PlaceholderAPI
-  - mcMMO
   - CombatLogX
-  - ItemsAdder
-  - Oraxen
-  - Nexo
-  - HeadDatabase
-  - Multiverse-Inventories
-  - Alice
-  - HolographicDisplays
-  - GHolo
-  - Essentials
-  - Vault
   - BentoBox
   - IridiumSkyblock
   - SuperiorSkyblock2
   - FabledSkyBlock
-  - DecentHolograms
-  - MythicMobs
+  - PvPManager
   - RPGHorses
+  - TogglePvp
+  # Custom Items
+  - ItemBridge
+  - ItemsAdder
+  - Oraxen
+  - Nexo
+  - HeadDatabase
+  - Scyther
+  # AntiCheat
+  - NoCheatPlus
+  - AAC
+  - Matrix
+  - Vulcan
+  - Alice
+  # Holograms
+  - FancyHolograms
+  - HolographicDisplays
+  - DecentHolograms
+  - GHolo
+  # Shop/Economy
   - zShop
   - DeluxeSellwands
-  - Scyther
-  - ModelEngine
-  - PvPManager
-  - DeluxeMenus
+  - Vault
+  - RoyaleEconomy
   - UltraEconomy
   - PlayerPoints
+  # Other/Misc
+  - Terra
+  - ProtocolLib
+  - PlaceholderAPI
+  - mcMMO
+  - Multiverse-Inventories
+  - Essentials
+  - MythicMobs
+  - ModelEngine
+  - DeluxeMenus
   - Denizen
-  - RoyaleEconomy
-  - FancyHolograms
